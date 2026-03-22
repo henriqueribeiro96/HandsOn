@@ -1,3 +1,7 @@
+
+-- ALTERANDOD
+
+
 CREATE TABLE [dbo].[dbcc_history](
 [Error] [int] NULL,
 [Level] [int] NULL,
